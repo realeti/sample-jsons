@@ -9,7 +9,7 @@
             "likes_count": 19738,
             "comments_count": 1388,
             "author_name": "Anu Priya",
-            "author_avatar": "68.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/68.jpg"
         },
             {
             "postId": 112,
@@ -19,7 +19,7 @@
             "likes_count": 8448,
             "comments_count": 376,
             "author_name": "Ricky Charles",
-            "author_avatar": "42.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/42.jpg"
         },
         {
             "postId": 113,
@@ -29,7 +29,7 @@
             "likes_count": 6990,
             "comments_count": 154,
             "author_name": "Jai Kumar",
-            "author_avatar": "64.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/64.jpg"
         },
         {
             "postId": 114,
@@ -39,7 +39,7 @@
             "likes_count": 5300,
             "comments_count": 879,
             "author_name": "Shruti Saxena",
-            "author_avatar": "12.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/12.jpg"
         },
             {
             "postId": 115,
@@ -49,7 +49,7 @@
             "likes_count": 124,
             "comments_count": 36,
             "author_name": "Lucas Fulton",
-            "author_avatar": "11.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/11.jpg"
         },
             {
             "postId": 116,
@@ -59,7 +59,7 @@
             "likes_count": 3578,
             "comments_count": 430,
             "author_name": "Chloe Clapton",
-            "author_avatar": "84.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/84.jpg"
         },
         {
             "postId": 117,
@@ -69,7 +69,7 @@
             "likes_count": 3434,
             "comments_count": 258,
             "author_name": "Xavier Ferguson",
-            "author_avatar": "83.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/83.jpg"
         },
         {
             "postId": 118,
@@ -79,7 +79,7 @@
             "likes_count": 12,
             "comments_count": 3,
             "author_name": "Elsie Charlson",
-            "author_avatar": "57.jpg"
+            "author_avatar": "https://realeti.github.io/sample-jsons/user-avatars/57.jpg"
         }
     ]
 }
